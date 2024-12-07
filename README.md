@@ -94,5 +94,3 @@ You can compare the evaluation metrics to determine which model performs better.
 This project demonstrates how machine learning models can be used to predict car prices based on various features. The Random Forest Regressor model, being a non-linear model, typically performs better than the Linear Regression model. However, both models can provide valuable insights for predicting used car prices.
 
 ---
-
-Feel free to modify the sections as per your project requirements.
